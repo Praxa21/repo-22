@@ -1,10 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is C007-D1C2
-
- Directory of C:\Users\ujjwa\OneDrive\Desktop\pra\pra21
-
-08/13/2021  01:49 PM    <DIR>          .
-08/13/2021  01:49 PM    <DIR>          ..
-08/13/2021  01:49 PM                 0 tes1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  440,535,121,920 bytes free
+chnage2
